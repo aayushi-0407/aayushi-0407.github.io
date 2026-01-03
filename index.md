@@ -1,4 +1,15 @@
+---
+layout: default
+---
 
+<div style="display:flex; gap:12px; align-items:center; flex-wrap:wrap; margin-bottom:14px;">
+  <a href="www.linkedin.com/in/aayushi-singh-857669253/">LinkedIn</a>
+  <span>·</span>
+  <a href="https://github.com/aayushi-0407/">GitHub</a>
+  <span>·</span>
+  <a href="https://leetcode.com/u/aayushi_coder/">LeetCode</a>
+  <span>·</span>
+</div>
 Hi 👋, I’m **Aayushi Singh**  
 
 💻 **Software Engineer** | **Ex-Google Intern** | **FinTech SWE Intern**
