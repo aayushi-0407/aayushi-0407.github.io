@@ -14,7 +14,7 @@ Hi 👋, I’m **Aayushi Singh**
 
 💻 **Software Engineer** | **Ex-Google Intern** | **FinTech SWE Intern**
 
-# 2026 graduate from **Indian Institute of Information Technology Vadodara**
+-2026 graduate from **Indian Institute of Information Technology Vadodara**
 I enjoy building **scalable backend systems**, writing **clean & maintainable code**,  
 and **solving problems** ⚡
 
