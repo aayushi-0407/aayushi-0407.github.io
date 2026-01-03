@@ -1,9 +1,7 @@
----
-layout: default
----
+
 Hi 👋, I’m **Aayushi Singh**  
 
-💻 **Software Engineer | Ex-Google Intern | FinTech Engineer**
+💻 **Software Engineer** | **Ex-Google Intern** | **FinTech SWE Intern**
 
 I enjoy building **scalable backend systems**, writing **clean & maintainable code**,  
 and learning fast in **high-impact engineering environments** ⚡
