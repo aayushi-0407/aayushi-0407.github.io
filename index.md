@@ -1,112 +1,119 @@
 ---
 layout: default
 ---
+Hi 👋, I’m **Aayushi Singh**  
 
-**Hi  👋 , I am Aayushi Singh**  
-_Software Engineer | Ex-Google Intern | FinTech Engineer_
+💻 **Software Engineer | Ex-Google Intern | FinTech Engineer**
 
-I enjoy building **scalable backend systems**, writing **clean and maintainable code**,  
-and learning fast in high-impact engineering environments.
+I enjoy building **scalable backend systems**, writing **clean & maintainable code**,  
+and learning fast in **high-impact engineering environments** ⚡
 
-> Mentors consistently highlighted my ability to **learn quickly**,  
-> take **strong ownership**, and deliver with clarity.
+> 🌱 Mentors consistently highlighted my ability to **learn quickly**,  
+> take **strong ownership**, and deliver with **clarity**.
 
 * * *
 
-# What I Do
-
+## 🚀 What I Do
 I focus on backend engineering problems that require  
-**clarity of thought, strong fundamentals, and real-world scalability**.
+**clarity of thought**, **strong fundamentals**, and **real-world scalability**.
 
-- Design backend services and APIs
-- Break complex problems into simple, reliable solutions
-- Exploring AI , LLMS and NLP because that's something which excites me
+- ⚙️ Design backend services and APIs  
+- 🧩 Break complex problems into simple, reliable solutions  
+- 🤖 Exploring **AI, LLMs, and NLP** — because that genuinely excites me
 
 ---
 
-## Experience
+## 💼 Experience
 
-### Google — Software Engineer Intern
-Worked on production systems used at scale.  
-Collaborated with experienced engineers and shipped real features.
-### Fintech Global Centre
-Currently Interning here will post soon about my learnings till the time stay tuned 
+### 🏢 Google — Software Engineer Intern
+- Worked on **production systems at scale**
+- Collaborated with experienced engineers
+- Shipped **real features used by real users**
+
+### 🏦 Global FinTech Centre — Software Engineering Intern
+- Currently interning 🚀  
+- Deepening my backend and systems knowledge  
+- 📢 *Will be sharing learnings soon — stay tuned!*
+
 ---
 
-## Technical Skills
+## 🛠️ Technical Skills
 
-**Languages I have worked on**
+### 💡 Languages I’ve worked with
 - C++
 - Python
 - Java
 - C
 - Kotlin
-- Javascript
-- Typescript 
+- JavaScript
+- TypeScript
 
-**Backend & Systems**
+### 🔧 Backend & Systems
 - APIs & Microservices
 - Backend Architecture
 - System Design Fundamentals
 
-**Engineering Practices**
+### 🧪 Engineering Practices
 - Clean Code
 - Debugging
 - Ownership & Documentation
 
 ---
 
-## Selected Projects
-### SwapBook — Hackathon Project (🥉 3rd Place)
+##  Selected Projects
+
+### 📚 SwapBook — Hackathon Project (🥉 3rd Place)
 A platform built for the **book readers community** to  
 exchange and discover books collaboratively.
 
 **My contribution (Backend Developer):**
-- Designed and implemented a **robust, scalable backend**
-- Built APIs consumed by both **mobile app and web application**
-- Focused on **scalability, clean architecture, and future growth**
+- 🏗️ Designed and implemented a **robust, scalable backend**
+- 🔌 Built APIs consumed by both **mobile app & web application**
+- 📈 Focused on scalability, clean architecture, and future growth
 
+---
 
-### 5G Network Automation Chatbot
-Automated configuration, validation, and monitoring  
-for simulated 5G network environments.
+### 📡 5G Network Automation Chatbot
+- Automated configuration, validation, and monitoring  
+- Built for **simulated 5G network environments**
 
-### Job Alert Microservice
-Backend service for tracking roles and sending notifications  
-using event-driven architecture.
+---
 
-### Rate Limiting Service — System Design Project
+### 🔔 Job Alert Microservice
+- Backend service for tracking roles and sending notifications  
+- Built using **event-driven architecture**
+
+---
+
+### 🚦 Rate Limiting Service — System Design Project
 A **lightweight Python (PyPI) package** that enables  
 rate limiting for **Flask-based APIs** using a clean, decorator-based interface.
 
 **Key highlights:**
-- Implemented **multiple industry-standard algorithms**:
+-  Implemented multiple industry-standard algorithms:
   - Token Bucket  
   - Sliding Window  
   - Fixed Window  
   - Leaky Bucket
-- Used **strategy-based design** to support different traffic patterns
-- Designed with **extensibility, clarity, and scalability** in mind
-
-> Built as a reusable system-design-focused backend component.
-
-
+-  Used **strategy-based design** for flexible traffic handling
+-  Designed with **extensibility, clarity, and scalability** in mind
+-  Built as a reusable, system-design-focused backend component
 
 ---
 
-## How I Work
+## 🧭 How I Work
 
-> “Simplicity is prerequisite for reliability.”  
-> — Edsger W. Dijkstra
+> “Simplicity is a prerequisite for reliability.”  
+> — **Edsger W. Dijkstra**
 
 I value:
-- Clear communication
-- Strong fundamentals
-- Writing code that scales with both **users and teams**
+- 💬 Clear communication  
+- 🧠 Strong fundamentals  
+- 📈 Writing code that scales with both **users and teams**
 
 ---
 
-## Contact
+## 🌐 Contact
 
 - **GitHub:** https://github.com/aayushi-0407 
 - **LinkedIn:** www.linkedin.com/in/aayushi-singh-857669253 
