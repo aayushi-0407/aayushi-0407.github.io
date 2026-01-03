@@ -2,25 +2,18 @@
 Hi 👋, I’m **Aayushi Singh**  
 
 💻 **Software Engineer** | **Ex-Google Intern** | **FinTech SWE Intern**
-
+I am a 2026 graduate from **Indian Institute of Information Technology Vadodara**
 I enjoy building **scalable backend systems**, writing **clean & maintainable code**,  
-and learning fast in **high-impact engineering environments** ⚡
-
-> 🌱 Mentors consistently highlighted my ability to **learn quickly**,  
-> take **strong ownership**, and deliver with **clarity**.
+and **solving problems** ⚡
 
 * * *
 
-## 🚀 What I Do
-I focus on backend engineering problems that require  
-**clarity of thought**, **strong fundamentals**, and **real-world scalability**.
-
+## 🚀 My Interests
 - ⚙️ Design backend services and APIs  
 - 🧩 Break complex problems into simple, reliable solutions  
 - 🤖 Exploring **AI, LLMs, and NLP** — because that genuinely excites me
 
 ---
-
 ## 💼 Experience
 
 ### 🏢 Google — Software Engineer Intern
@@ -96,18 +89,6 @@ rate limiting for **Flask-based APIs** using a clean, decorator-based interface.
 -  Used **strategy-based design** for flexible traffic handling
 -  Designed with **extensibility, clarity, and scalability** in mind
 -  Built as a reusable, system-design-focused backend component
-
----
-
-## 🧭 How I Work
-
-> “Simplicity is a prerequisite for reliability.”  
-> — **Edsger W. Dijkstra**
-
-I value:
-- 💬 Clear communication  
-- 🧠 Strong fundamentals  
-- 📈 Writing code that scales with both **users and teams**
 
 ---
 
