@@ -2,122 +2,114 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+**Hi  👋 , I am Aayushi Singh**  
+_Software Engineer | Ex-Google Intern | FinTech Engineer_
 
-[Link to another page](./another-page.html).
+I enjoy building **scalable backend systems**, writing **clean and maintainable code**,  
+and learning fast in high-impact engineering environments.
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
+> Mentors consistently highlighted my ability to **learn quickly**,  
+> take **strong ownership**, and deliver with clarity.
 
 * * *
 
-### Here is an unordered list:
+# What I Do
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+I focus on backend engineering problems that require  
+**clarity of thought, strong fundamentals, and real-world scalability**.
 
-### And an ordered list:
+- Design backend services and APIs
+- Break complex problems into simple, reliable solutions
+- Exploring AI , LLMS and NLP because that's something which excites me
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+---
 
-### And a nested list:
+## Experience
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+### Google — Software Engineer Intern
+Worked on production systems used at scale.  
+Collaborated with experienced engineers and shipped real features.
+### Fintech Global Centre
+Currently Interning here will post soon about my learnings till the time stay tuned 
+---
 
-### Small image
+## Technical Skills
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+**Languages I have worked on**
+- C++
+- Python
+- Java
+- C
+- Kotlin
+- Javascript
+- Typescript 
 
-### Large image
+**Backend & Systems**
+- APIs & Microservices
+- Backend Architecture
+- System Design Fundamentals
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+**Engineering Practices**
+- Clean Code
+- Debugging
+- Ownership & Documentation
+
+---
+
+## Selected Projects
+### SwapBook — Hackathon Project (🥉 3rd Place)
+A platform built for the **book readers community** to  
+exchange and discover books collaboratively.
+
+**My contribution (Backend Developer):**
+- Designed and implemented a **robust, scalable backend**
+- Built APIs consumed by both **mobile app and web application**
+- Focused on **scalability, clean architecture, and future growth**
 
 
-### Definition lists can be used with HTML syntax.
+### 5G Network Automation Chatbot
+Automated configuration, validation, and monitoring  
+for simulated 5G network environments.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+### Job Alert Microservice
+Backend service for tracking roles and sending notifications  
+using event-driven architecture.
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+### Rate Limiting Service — System Design Project
+A **lightweight Python (PyPI) package** that enables  
+rate limiting for **Flask-based APIs** using a clean, decorator-based interface.
 
-```
-The final element.
-```
+**Key highlights:**
+- Implemented **multiple industry-standard algorithms**:
+  - Token Bucket  
+  - Sliding Window  
+  - Fixed Window  
+  - Leaky Bucket
+- Used **strategy-based design** to support different traffic patterns
+- Designed with **extensibility, clarity, and scalability** in mind
+
+> Built as a reusable system-design-focused backend component.
+
+
+
+---
+
+## How I Work
+
+> “Simplicity is prerequisite for reliability.”  
+> — Edsger W. Dijkstra
+
+I value:
+- Clear communication
+- Strong fundamentals
+- Writing code that scales with both **users and teams**
+
+---
+
+## Contact
+
+- **GitHub:** https://github.com/aayushi-0407 
+- **LinkedIn:** www.linkedin.com/in/aayushi-singh-857669253 
+
+---
+
