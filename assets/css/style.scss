@@ -5,3 +5,31 @@
 img {
   border-radius: 50%;
 }
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Improve overall typography */
+body {
+  line-height: 1.65;
+}
+
+/* Section headers pop */
+h2 {
+  margin-top: 2.5rem;
+  letter-spacing: 0.5px;
+}
+
+/* Card-style lists */
+ul {
+  background: #f9f9f9;
+  padding: 1rem 1.2rem;
+  border-radius: 12px;
+}
+
+/* Profile image polish */
+img {
+  border-radius: 14px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+}
